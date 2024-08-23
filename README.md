@@ -1,5 +1,5 @@
 
-# Weather Watcher: Real-Time Weather Monitoring App
+# [Module 6] Weather Watcher: Real-Time Weather Monitoring App
 
 ## Overview
 
